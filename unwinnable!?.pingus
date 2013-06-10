@@ -3,7 +3,7 @@
   (head 
     (license "GPLv3+")
     (levelname "Unwinnable!?")
-    (description "Trick level. Your penguins are separated from the exit by a deep layer of rock, with no abilities to use! How will any survive? (Answer: Wait until all penguins are out, and press the suicide/nuke button. The exploding penguins will drill through the rock, and some penguins will survive long enough to reach an exit.)")
+    (description "Trick level. Your penguins are separated from the exit by a deep layer of rock, with no abilities to use! How will any survive?")
     (author "Mechanical snail")
     (number-of-pingus 300)
     (number-to-save 1)
