@@ -3,7 +3,7 @@
   (head 
     (license "GPLv3+")
     (levelname "The Storm")
-    (description "Build bridges through portals. First, build a bridge over the very deepest point of the flooded walkway. Build a bridge on the right side of the rightmost iceberg, connecting it to the spike as a wall. Jump one penguin onto the platform with the igloo. You will be teleportedto the top-left corner of the map.  Mine a tunnel to the left until you hit undiggable rock @@@@@@ turn around by. At the right end of the platform, build 3 bridges, w the second passing through the glowing portal, whi and exit. Finally, use your last bridge from the top of the iceberg to the left to send the collected penguins on their way.")
+    (description "The Pingus are caught in a raging storm. Remember, penguins can’t swim, so you will need to build bridges in strategic places to escape.")
     (author "Mechanical snail")
     (number-of-pingus 50)
     (number-to-save 50)

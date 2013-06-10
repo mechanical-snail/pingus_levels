@@ -1,0 +1,7 @@
+The main insight is that you can build a bridge through teleportation portals.
+
+First, build a bridge over the very deepest point of the flooded walkway. Build a bridge on the right side of the rightmost iceberg, connecting it to the spike as a wall. Due to the crevasse in the iceberg, incoming penguins will stay safely in this area.
+
+Jump one penguin onto the platform with the igloo. It will be teleported to a point near the top-left corner of the map, but you are facing left, toward darkness and monsters. Turn around by mining a tunnel to the left until you hit undiggable rock. At the right end of the platform, build 3 bridges, the second passing through the glowing portal, and the third reaching the exit platform. Let this penguin exit.
+
+Finally, use your last bridge from the top of the lower iceberg to the left, sending the collected penguins on their way.
