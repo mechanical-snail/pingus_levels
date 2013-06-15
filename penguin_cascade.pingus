@@ -4,7 +4,7 @@
     (license "http://creativecommons.org/licenses/by-sa/3.0,GPLv3+")
     (levelname "Penguin Cascade")
     (description "A demo level in which hundreds of penguins cascade in a loop. For a spectacle, try pressing the Nuke button once all the penguins are out.")
-    (author "Mechanical snail")
+    (author "Mechanical snail <replicator.snail+git@gmail.com>")
     (number-of-pingus 350)
     (number-to-save 350)
     (time -1)

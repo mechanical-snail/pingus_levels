@@ -4,7 +4,7 @@
     (license "http://creativecommons.org/licenses/by-sa/3.0,GPLv3+")
     (levelname "The Storm")
     (description "The Pingus are caught in a raging storm. Remember, penguins can’t swim, so you will need to build bridges in strategic places to escape.")
-    (author "Mechanical snail")
+    (author "Mechanical snail <replicator.snail+git@gmail.com>")
     (number-of-pingus 50)
     (number-to-save 50)
     (time -1)

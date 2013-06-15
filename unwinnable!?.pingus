@@ -4,7 +4,7 @@
     (license "http://creativecommons.org/licenses/by-sa/3.0,GPLv3+")
     (levelname "Unwinnable!?")
     (description "Trick level. Your penguins are separated from the exit by a deep layer of rock, with no abilities to use! How will any survive?")
-    (author "Mechanical snail")
+    (author "Mechanical snail <replicator.snail+git@gmail.com>")
     (number-of-pingus 300)
     (number-to-save 1)
     (time -1)
