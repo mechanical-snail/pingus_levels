@@ -1,7 +1,7 @@
 (pingus-level 
   (version 3)
   (head 
-    (license "GPLv3+")
+    (license "http://creativecommons.org/licenses/by-sa/3.0,GPLv3+")
     (levelname "Unwinnable!?")
     (description "Trick level. Your penguins are separated from the exit by a deep layer of rock, with no abilities to use! How will any survive?")
     (author "Mechanical snail")

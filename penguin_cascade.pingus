@@ -1,7 +1,7 @@
 (pingus-level 
   (version 3)
   (head 
-    (license "GPLv3+")
+    (license "http://creativecommons.org/licenses/by-sa/3.0,GPLv3+")
     (levelname "Penguin Cascade")
     (description "A demo level in which hundreds of penguins cascade in a loop. For a spectacle, try pressing the Nuke button once all the penguins are out.")
     (author "Mechanical snail")

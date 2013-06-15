@@ -1,7 +1,7 @@
 (pingus-level 
   (version 3)
   (head 
-    (license "GPLv3+")
+    (license "http://creativecommons.org/licenses/by-sa/3.0,GPLv3+")
     (levelname "The Storm")
     (description "The Pingus are caught in a raging storm. Remember, penguins can’t swim, so you will need to build bridges in strategic places to escape.")
     (author "Mechanical snail")
