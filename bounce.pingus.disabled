@@ -1,0 +1,208 @@
+(pingus-level 
+  (version 3)
+  (head 
+    (license "GPLv3+")
+    (levelname "Bounce")
+    (description "Intended to be solved by repeatedly bouncing between walls (starting with a jumper or slider). Didn't work.")
+    (author "")
+    (number-of-pingus 3)
+    (number-to-save 3)
+    (time -1)
+    (music "")
+    (actions 
+      (basher 20)
+      (blocker 20)
+      (bomber 20)
+      (bridger 20)
+      (climber 20)
+      (digger 20)
+      (floater 20)
+      (jumper 20)
+      (miner 20)
+      (slider 20))
+    (levelsize 500 1450))
+  (objects 
+    (surface-background 
+      (surface 
+        (image "textures/flamebg")
+        (modifier "ROT0"))
+      (position 189 -3 -1000)
+      (colori 0 0 0 0)
+      (stretch-x #f)
+      (stretch-y #t)
+      (keep-aspect #f)
+      (scroll-x 0)
+      (scroll-y 0)
+      (para-x 0.5)
+      (para-y 0.5))
+    (groundpiece 
+      (type "solid")
+      (surface 
+        (image "groundpieces/solid/industrial/steel2")
+        (modifier "ROT0"))
+      (position 0 1274 0))
+    (group 
+      (objects 
+        (groundpiece 
+          (type "solid")
+          (surface 
+            (image "groundpieces/solid/industrial/steel3")
+            (modifier "ROT0"))
+          (position 36 1397 0))
+        (groundpiece 
+          (type "solid")
+          (surface 
+            (image "groundpieces/solid/industrial/steel3")
+            (modifier "ROT0"))
+          (position 195 1397 0))))
+    (group 
+      (objects 
+        (group 
+          (objects 
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 -1 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 159 0))))
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 319 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 479 0))))))
+        (group 
+          (objects 
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 639 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 799 0))))
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 959 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 0 1119 0))))))))
+    (group 
+      (objects 
+        (group 
+          (objects 
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 79 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 239 0))))
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 399 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 559 0))))))
+        (group 
+          (objects 
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 719 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 879 0))))
+            (group 
+              (objects 
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 1039 0))
+                (groundpiece 
+                  (type "solid")
+                  (surface 
+                    (image "groundpieces/solid/industrial/steel2")
+                    (modifier "ROT0"))
+                  (position 64 1199 0))))))))
+    (groundpiece 
+      (type "ground")
+      (surface 
+        (image "groundpieces/ground/crystal/tesselate")
+        (modifier "ROT0"))
+      (position 123 81 0))
+    (prefab 
+      (name "prefabs/entrances/space")
+      (position 156 72 0)
+      (overrides 
+        (release-rate 10)
+        (direction "left")
+        (owner-id 0)))
+    (groundpiece 
+      (type "solid")
+      (surface 
+        (image "groundpieces/solid/industrial/steel2")
+        (modifier "ROT0"))
+      (position 68 -114 0))
+    (groundpiece 
+      (type "solid")
+      (surface 
+        (image "groundpieces/solid/desert/smallbrickpiece")
+        (modifier "ROT0"))
+      (position 64 79 0))))
+
+;; EOF ;;
